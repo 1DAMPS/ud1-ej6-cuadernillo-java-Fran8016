@@ -1,0 +1,4 @@
+De los siguientes nombres de variables, indica cuáles son válidos y cuáles no:
+2edad, _curso, while, Nombre, precioTotal.
+Validos: Nombre, precioTotal, _curso
+Invalidos: while, 2edadgit
